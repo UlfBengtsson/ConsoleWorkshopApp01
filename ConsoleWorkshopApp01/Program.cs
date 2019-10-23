@@ -6,7 +6,7 @@ namespace ConsoleWorkshopApp01
     {
         static void Main(string[] args)
         {
-            /*
+            
             string firstName = AskUserFor("first name");
             string lastName = AskUserFor("last name");
             int age = AskUserForNumber("age");
@@ -16,7 +16,7 @@ namespace ConsoleWorkshopApp01
             double result = 7.4 * AskUserForNumber();
 
             Console.WriteLine("7.4 * your munber is: " + result);
-            */
+            
 
             char aLetter = 'a';
 
